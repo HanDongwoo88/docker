@@ -1,0 +1,9 @@
+D:\test3\dockertest\dockertest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\test3\dockertest\dockertest\bin\Debug\netcoreapp3.0\appsettings.json
+D:\test3\dockertest\dockertest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\test3\dockertest\dockertest\bin\Debug\netcoreapp3.0\dockertest.exe
+D:\test3\dockertest\dockertest\obj\Debug\netcoreapp3.0\staticwebassets\dockertest.StaticWebAssets.Manifest.cache
+D:\test3\dockertest\dockertest\obj\Debug\netcoreapp3.0\staticwebassets\dockertest.StaticWebAssets.xml
+D:\test3\dockertest\dockertest\obj\Debug\netcoreapp3.0\dockertest.AssemblyInfoInputs.cache
+D:\test3\dockertest\dockertest\obj\Debug\netcoreapp3.0\dockertest.AssemblyInfo.cs
+D:\test3\dockertest\dockertest\obj\Debug\netcoreapp3.0\dockertest.RazorTargetAssemblyInfo.cache
